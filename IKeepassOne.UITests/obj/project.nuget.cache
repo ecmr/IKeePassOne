@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFIxt3CohkkUWQTSQ7k8gZo9OgsKcpx0b9rOcdnac0ip3dVfdPm/C+5o4/05QNoTOFL6L1hw9w+QWXnhoY95YA==",
+  "success": true,
+  "projectFilePath": "/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/IKeepassOne.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/edineidemenezes/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/edineidemenezes/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

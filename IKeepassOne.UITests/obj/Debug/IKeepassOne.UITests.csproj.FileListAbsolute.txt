@@ -1,0 +1,9 @@
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/bin/Debug/IKeepassOne.UITests.dll
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/bin/Debug/IKeepassOne.UITests.pdb
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/bin/Debug/nunit.framework.dll
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/bin/Debug/nunit.framework.pdb
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/obj/Debug/IKeepassOne.UITests.csproj.CoreCompileInputs.cache
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/obj/Debug/IKeepassOne.UITests.csproj.CopyComplete
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/obj/Debug/IKeepassOne.UITests.dll
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/obj/Debug/IKeepassOne.UITests.pdb

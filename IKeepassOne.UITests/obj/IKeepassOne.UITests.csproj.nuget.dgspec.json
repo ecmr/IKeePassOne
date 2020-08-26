@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/IKeepassOne.UITests.csproj": {}
+  },
+  "projects": {
+    "/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/IKeepassOne.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/IKeepassOne.UITests.csproj",
+        "projectName": "IKeepassOne.UITests",
+        "projectPath": "/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/IKeepassOne.UITests.csproj",
+        "packagesPath": "/Users/edineidemenezes/.nuget/packages/",
+        "outputPath": "/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne.UITests/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/edineidemenezes/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

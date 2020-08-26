@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3/LHR6sda6rK0nIcHl7xMUX3dNDRk7RKaMTR6h29XV0YZYpkpon8W+3xkOKyUIxHcH4uuyBsbTQaSCKUvaCyw==",
+  "success": true,
+  "projectFilePath": "/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/IKeepassOne.csproj",
+  "expectedPackageFiles": [
+    "/Users/edineidemenezes/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/edineidemenezes/.nuget/packages/xamarin.testcloud.agent/0.21.9/xamarin.testcloud.agent.0.21.9.nupkg.sha512"
+  ],
+  "logs": []
+}

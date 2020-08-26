@@ -1,0 +1,15 @@
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/bin/iPhoneSimulator/Debug/IKeepassOne.exe
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/bin/iPhoneSimulator/Debug/IKeepassOne.pdb
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/IKeepassOne.csproj.CoreCompileInputs.cache
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/IKeepassOne.csproj.CopyComplete
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/IKeepassOne.exe
+/Users/edineidemenezes/Documents/ecmGit/IKeepassOne/IKeepassOne/obj/iPhoneSimulator/Debug/IKeepassOne.pdb
